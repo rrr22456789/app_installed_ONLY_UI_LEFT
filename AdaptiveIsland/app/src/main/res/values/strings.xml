@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adaptive Island</string>
+    <string name="title_dashboard">Usage Dashboard</string>
+    <string name="title_settings">Island Configuration</string>
+    
+    <!-- Settings Form Fields -->
+    <string name="label_enable_overlay">Enable Island Overlay</string>
+    <string name="hint_width">Capsule Width (dp)</string>
+    <string name="hint_height">Capsule Height (dp)</string>
+    <string name="action_save">Commit Changes</string>
+
+    <!-- Content Sections -->
+    <string name="section_realtime_metrics">Active Monitoring Metrics</string>
+    <string name="section_historical_logs">Historical Session Logs</string>
+
+    <!-- Previews / Accessibility Fallbacks -->
+    <string name="preview_app_name">System Active App</string>
+    <string name="preview_session_time">00:00:00</string>
+    <string name="preview_date">YYYY-MM-DD</string>
+</resources>

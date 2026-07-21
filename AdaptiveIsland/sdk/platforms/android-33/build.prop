@@ -1,0 +1,5 @@
+ro.build.version.sdk=33
+ro.build.version.codename=REL
+ro.build.version.release=13
+layoutlib.api=15
+layoutlib.version=1
